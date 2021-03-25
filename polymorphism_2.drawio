@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-25T08:44:37.817Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36 Edg/89.0.774.57" etag="RkQYaZw4EATLgq9oFRzn" version="14.5.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-25T08:49:14.429Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36 Edg/89.0.774.57" etag="jZuHmanIwCNvUeuTYF2k" version="14.5.1" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1695" dy="492" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -107,13 +107,13 @@
           <mxGeometry y="34" width="275" height="136" as="geometry" />
         </mxCell>
         <mxCell id="SuMhkwY2WCueaeeAXv5u-39" value="Manajer" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="400" y="840" width="300" height="190" as="geometry" />
+          <mxGeometry x="400" y="840" width="300" height="170" as="geometry" />
         </mxCell>
         <mxCell id="SuMhkwY2WCueaeeAXv5u-41" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" vertex="1" parent="SuMhkwY2WCueaeeAXv5u-39">
           <mxGeometry y="26" width="300" height="8" as="geometry" />
         </mxCell>
         <mxCell id="SuMhkwY2WCueaeeAXv5u-42" value="+ Manajer()&#xa;+ Manajer(nama: String, gajiPokok: int, tunjangan: int)&#xa;+ getNama(): String&#xa;+ getGajiPokok(): int&#xa;+ getTunjangan(): int&#xa;+ setNama(nama: String): void&#xa;+ setGajiPokok(gajiPokok: int): void&#xa;+ setTunjangan(bonus: int): void&#xa;+ hitungGaji(): int" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="SuMhkwY2WCueaeeAXv5u-39">
-          <mxGeometry y="34" width="300" height="156" as="geometry" />
+          <mxGeometry y="34" width="300" height="136" as="geometry" />
         </mxCell>
         <mxCell id="SuMhkwY2WCueaeeAXv5u-43" value="Extends" style="endArrow=block;endSize=16;endFill=0;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="SuMhkwY2WCueaeeAXv5u-35" target="SuMhkwY2WCueaeeAXv5u-29">
           <mxGeometry width="160" relative="1" as="geometry">
